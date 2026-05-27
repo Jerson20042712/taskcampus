@@ -134,9 +134,9 @@ GET /tasks?estado=pendiente&prioridad=alta
 
 ## Integrantes del grupo
 
-| Nombre | Rol |
-|--------|-----|
-|        |     |
+| Nombre |      Rol         |
+|--------|------------------|
+| Jerson |desarrollador     |
 
 ---
 
