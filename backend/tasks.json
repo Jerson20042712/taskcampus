@@ -1,0 +1,20 @@
+[
+  {
+    "id": "46f5e383-80ea-4096-87c4-c834f3e747be",
+    "titulo": "Inorme lab",
+    "descripcion": "A",
+    "asignatura": "Programacion",
+    "fecha": "2026-05-29",
+    "prioridad": "media",
+    "estado": "pendiente"
+  },
+  {
+    "id": "573bfb29-bd4d-4721-a8f2-1f7dbe74aa93",
+    "titulo": "www",
+    "descripcion": "wwww",
+    "asignatura": "wwww",
+    "fecha": "2026-05-23",
+    "prioridad": "alta",
+    "estado": "finalizada"
+  }
+]

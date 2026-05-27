@@ -1,0 +1,12 @@
+{
+  "name": "taskcampus-frontend",
+  "version": "1.0.0",
+  "description": "Frontend TypeScript para TaskCampus",
+  "scripts": {
+    "dev": "npx serve . -p 3000",
+    "build": "npx tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
